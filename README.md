@@ -9,7 +9,7 @@ InsatgramBrute is an tool to perform multi-threaded brute force attack against I
 Usage of InsatgramBrute for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ## Proof:
-![insta](https://user-images.githubusercontent.com/50268203/81773518-694f8800-94b6-11ea-859d-9c2362d71dd4.gif)
+![insta](https://github.com/MCracker2002/InstagramBrute/blob/04a8b41286733a06b7bbab771ca964688e626d1a/teck4u.gif)
 
 ### Features
 - Multi-thread (400 pass/min, 20 threads)
